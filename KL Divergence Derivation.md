@@ -18,7 +18,8 @@ $D_{KL}\left[Q(z|X)\parallel P(z|X)\right] = \sum_{z}Q(z|X)\log\left(\frac{Q(z|X
 
 $= E\left[\log Q(z|X) - \log P(z|X)\right]$
 
-$= E\left[\log Q(z|X) - \log \frac{P(X|z)P(z)}{P(X)}\right]$  (using Bayes Theorem equivalent for $P(z|X)$)
+$= E\left[\log Q(z|X) - \log \frac{P(X|z)P(z)}{P(X)}\right]$  
+(using Bayes Theorem equivalent for $P(z|X)$)
 
 $= E\left[\log Q(z|X) - (\log P(X|z)+\log P(z)-\log P(X)) \right]$
 
