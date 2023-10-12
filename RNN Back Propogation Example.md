@@ -2,7 +2,7 @@
 
 ## Example using 4 time steps:
 
-$E_k$ is the loss associationed with time step $k$.
+$E_k$ is the loss associated with time step $k$.
 
 ### Forward Propogation
 
